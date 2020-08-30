@@ -1,6 +1,6 @@
-## Robotics Reading Group 
+# Robotics Reading Group 
 
-# Fall 2020 Schedule
+## Fall 2020 Schedule
 
 | Speaker      | Affiliation | Date      | Slides       |    Recording     |
 | :---        |    :----:   |          ---: |      ---: |        ---: |
