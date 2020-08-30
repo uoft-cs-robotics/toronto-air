@@ -1,5 +1,7 @@
 # Robotics Reading Group 
 
+This page hosts the schedule of speakers for the CS Robotics Reading group. We meet from 1030 to 1130 EST on Fridays. If you have any questions, kindly email [Animesh Garg](https://animesh.garg.tech/) and [Homanga Bharadhwaj](https://homangab.github.io/).
+
 ## Fall 2020 Schedule
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
