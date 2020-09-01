@@ -15,6 +15,7 @@ The meetings will be hosted on youtube with hosts/presenters using zoom.
 | Yunzhu Li      | MIT       | Sept 4, 2020   | [Kopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  TBD   |    TBD      |
 | Yana Hasson   | INRIA        | Sept 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | TBD     |     TBD      |
 | Ahmed Qureshi | UCSD | Sept 18, 2020 | [Motion Planning Networks](https://arxiv.org/abs/1806.05767) | TBD | TBD | 
+|Ron Dorfman | Technion | Sept 25, 2020 | [Offline Meta RL](https://arxiv.org/abs/2008.02598) | TBD | TBD | 
 | Rika Antonova  | KTH        | Oct 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | TBD     |     TBD      |
 
 
