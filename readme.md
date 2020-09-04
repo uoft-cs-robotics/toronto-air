@@ -17,7 +17,7 @@ The meetings will be hosted on youtube with hosts/presenters using zoom.
 | Ahmed Qureshi | UCSD | Sept 18, 2020 | [Motion Planning Networks](https://arxiv.org/abs/1806.05767) | TBD | TBD | 
 |Ron Dorfman | Technion | Sept 25, 2020 | [Offline Meta RL](https://arxiv.org/abs/2008.02598) | TBD | TBD | 
 | Rika Antonova  | KTH        | Oct 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | TBD     |     TBD      |
-
+| Anirudh Goyal  | Mila        | Oct 23, 2020     |  [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)  | TBD     |     TBD      |
 
 
 ### Contact
