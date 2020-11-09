@@ -3,14 +3,11 @@ layout: default
 title: Home
 ---
 
-<!-- <h1>Robotics-RG</h1> -->
-<!-- <h3 style="margin: 0; font-size: 1.5rem;">ML & Robotics Reading Group</h3> -->
+<!-- ## AI in Robotics Reading Group -->
 
-## AI in Robotics Reading Group
+AI in Robotics Reading group is organized by the Faculty and Students at the [Dept. of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) for students across the world to present and interact with the Toronto Robotics Community.
 
-AI in Robotics Reading group, at the [Dept. of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/). 
-
-**Format**: Opportunities for students to persent their and get opportunities to connect with peers from other institutions are inceasingly getting rare. This phenomenon is sped up by low rate of oral/spotlights at top AI meetings and all events going online. This series aims to create opportunities for students to present their work in a friendly setting and get feedback and hopefully build new collaborations and network. 
+**Format**: Opportunities for students tos persent their and get opportunities to connect with peers from other institutions are inceasingly getting rare. This phenomenon is sped up by low rate of oral/spotlights at top AI meetings and all events going online. This series aims to create opportunities for students to present their work in a friendly setting and get feedback and hopefully build new collaborations and network. 
 
 - As a guiding principle, all speakers in these talks are first authors or co-authors intimately familiar with the work to field questions at every level of detail.   
 - Unlike job talks, we usually prefer that speakers focus on a couple of main papers/ideas rather than present a full arc of their recent work.  
