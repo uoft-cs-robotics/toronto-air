@@ -23,7 +23,7 @@ The meetings will be hosted on youtube with hosts/presenters using zoom.
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|    
-| [Zongyi Li](https://zongyi-li.github.io/)      | Caltech       | Nov 20, 2020   | [Fourier Neural Operator for Parametric PDEs](https://arxiv.org/abs/2010.08895)    |  TBD   |   [link](https://www.youtube.com/watch?v=0Ve9xwNJO2o&feature=youtu.be)    |
+| [Zongyi Li](https://zongyi-li.github.io/)      | Caltech       | Nov 20, 2020   | [Fourier Neural Operator for Parametric PDEs](https://arxiv.org/abs/2010.08895)    |  [link](public/assets/files/zongyi.pdf)   |   [link](https://www.youtube.com/watch?v=0Ve9xwNJO2o&feature=youtu.be)    |
 | [Anirudh Goyal](https://anirudh9119.github.io/)  | Mila        | Oct 23, 2020     |  [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)  | [link](public/assets/files/anirudh.pdf)     |     [link](https://www.youtube.com/watch?v=qNXMrQXwnWk&feature=youtu.be)      |
 | [Rika Antonova](https://www.kth.se/profile/antonova/)  | KTH        | Oct 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | [link](public/assets/files/rika.pdf)     |     [link](https://youtu.be/W41p76Q03nI)      |
 | [Ron Dorfman](https://il.linkedin.com/in/ron-dorfman-756b9a13a) | Technion | Sept 25, 2020 | [Offline Meta RL](https://arxiv.org/abs/2008.02598) | [link](public/assets/files/ron.pdf) | [link](https://www.youtube.com/watch?v=2euljG6qUmM&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) | 
