@@ -59,6 +59,7 @@ Subscribe to our list to be notified of upcoming talks:
 If you have any questions, kindly email the current organizers:
 - [Animesh Garg](https://animesh.garg.tech/): [garg@cs.toronto.edu](mailto:garg@cs.toronto.edu)  
 - [Homanga Bharadhwaj](https://homangab.github.io/): [homanga@cs.toronto.edu](mailto:homanga@cs.toronto.edu)  
+- [Arthur Allshire](https://allshire.org/): [arthur.allshire@mail.utoronto.ca](mailto:arthur.allshire@mail.utoronto.ca)
 
 #### Support and Acknowledgement
 
