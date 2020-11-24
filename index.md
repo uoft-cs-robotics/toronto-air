@@ -45,7 +45,7 @@ Subscribe to our list to be notified of upcoming talks:
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|    
-| [Carolyn Matl](https://carolyncmatl.github.io)      | UC Berkeley       | Dec 11, 2020   | [STReSSD: Sim-To-Real from Sound for Stochastic Dynamics](https://arxiv.org/abs/2011.03136) / [Inferring the Material Properties of Granular Media for Robotic Tasks](https://arxiv.org/pdf/2003.08032.pdf)    |   |      |
+| [Carolyn Matl](https://carolyncmatl.github.io)      | UC Berkeley       | Dec 11, 2020   | [Sim-To-Real from Sound](https://arxiv.org/abs/2011.03136) / [ Material Properties for Robotic Tasks](https://arxiv.org/pdf/2003.08032.pdf)    |   |      |
 | [Zongyi Li](https://zongyi-li.github.io/)      | Caltech       | Nov 20, 2020   | [Fourier Neural Operator for Parametric PDEs](https://arxiv.org/abs/2010.08895)    |  [link](public/assets/files/zongyi.pdf)   |   [link](https://www.youtube.com/watch?v=0Ve9xwNJO2o&feature=youtu.be)    |
 | [Anirudh Goyal](https://anirudh9119.github.io/)  | Mila        | Oct 23, 2020     |  [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)  | [link](public/assets/files/anirudh.pdf)     |     [link](https://www.youtube.com/watch?v=qNXMrQXwnWk&feature=youtu.be)      |
 | [Rika Antonova](https://www.kth.se/profile/antonova/)  | KTH        | Oct 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | [link](public/assets/files/rika.pdf)     |     [link](https://youtu.be/W41p76Q03nI)      |
