@@ -53,10 +53,12 @@ Subscribe to our list to be notified of upcoming talks:
 |[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
 |[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
 
-<details>
-  <summary> **Fall 2020 Schedule!** </summary>
+
   
 ### Fall 2020 Schedule
+
+<details>
+  <summary> Click here to Check out speakers/talks from Fall 2020 </summary>
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|    
