@@ -41,6 +41,21 @@ Subscribe to our list to be notified of upcoming talks:
 
 <!--End mc_embed_signup-->
 
+
+### Winter 2021 Schedule
+
+| Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
+| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
+|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Object Detection](https://arxiv.org/pdf/1903.03838.pdf)| ||
+|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|||
+|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) |||
+|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)|
+|[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
+|[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
+
+<details>
+  <summary> **Fall 2020 Schedule!** </summary>
+  
 ### Fall 2020 Schedule
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
@@ -55,18 +70,8 @@ Subscribe to our list to be notified of upcoming talks:
 | [Yana Hasson](https://hassony2.github.io/)   | INRIA        | Sept 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | [link](https://www.rocq.inria.fr/cluster-willow/yhasson/presentations/2020_09_11_handobj/)     |     [link](https://www.youtube.com/watch?v=gAqIngwZN0E)      |
 | [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/)      | MIT       | Sept 4, 2020   | [Koopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  [link](public/assets/files/yunzhu_li_koopman.pdf)   |    [link](https://www.youtube.com/watch?v=y_j53bkKzq8)      |
 
-### Winter 2021 Schedule
+</details>
 
-
-
-| Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
-| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Object Detection](https://arxiv.org/pdf/1903.03838.pdf)| ||
-|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|||
-|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) |||
-|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)|
-|[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
-|[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
 
 ### Contact
 If you have any questions, kindly email the current organizers:
