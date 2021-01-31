@@ -53,12 +53,9 @@ Subscribe to our list to be notified of upcoming talks:
 |[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
 |[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
 
-
   
 ### Fall 2020 Schedule
 
-<details>
-  <summary> Click here to Check out speakers/talks from Fall 2020 </summary>
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|    
@@ -71,8 +68,6 @@ Subscribe to our list to be notified of upcoming talks:
 | [Ahmed Qureshi](https://qureshiahmed.github.io/) | UCSD | Sept 18, 2020 | [Motion Planning Networks](https://arxiv.org/abs/1806.05767) | [link](public/assets/files/MPNet_AhmedQureshi.pdf) | [link](https://www.youtube.com/watch?v=x5hf-gjdQaA&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) |
 | [Yana Hasson](https://hassony2.github.io/)   | INRIA        | Sept 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | [link](https://www.rocq.inria.fr/cluster-willow/yhasson/presentations/2020_09_11_handobj/)     |     [link](https://www.youtube.com/watch?v=gAqIngwZN0E)      |
 | [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/)      | MIT       | Sept 4, 2020   | [Koopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  [link](public/assets/files/yunzhu_li_koopman.pdf)   |    [link](https://www.youtube.com/watch?v=y_j53bkKzq8)      |
-
-</details>
 
 
 ### Contact
