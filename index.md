@@ -61,7 +61,7 @@ Subscribe to our list to be notified of upcoming talks:
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Object Detection](https://arxiv.org/pdf/1903.03838.pdf)| ||
+|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Detection](https://openreview.net/pdf?id=YLewtnvKgR7)| ||
 |[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|||
 |[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) |||
 |[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)|
