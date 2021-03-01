@@ -51,6 +51,7 @@ Subscribe to our list to be notified of upcoming talks:
 |[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) |||
 |[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)|
 |[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
+|[Daniel Seita](https://people.eecs.berkeley.edu/~seita/)| UC Berkeley| March 19, 2021| [Deformable Object Manipulation](https://berkeleyautomation.github.io/bags/)|||
 |[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
 
 ### Fall 2020 Schedule
@@ -73,7 +74,7 @@ If you have any questions, kindly email the current organizers:
 - [Animesh Garg](https://animesh.garg.tech/): [garg@cs.toronto.edu](mailto:garg@cs.toronto.edu)  
 - [Homanga Bharadhwaj](https://homangab.github.io/): [homanga@cs.toronto.edu](mailto:homanga@cs.toronto.edu)  
 - [Arthur Allshire](https://allshire.org/): [arthur.allshire@mail.utoronto.ca](mailto:arthur.allshire@mail.utoronto.ca)  
-- Nishkrit Desai: [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
+- [Nishkrit Desai](https://ndes.ai): [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
  
 #### Support and Acknowledgement
 
