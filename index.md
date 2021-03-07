@@ -39,6 +39,8 @@ Subscribe to our list to be notified of upcoming talks:
 </form>
 </div>
 
+Past talks are also available on our [YouTube Channel](https://www.youtube.com/channel/UCUt5hX4AYwNJOeTE7Sd2cIw).
+
 <!--End mc_embed_signup-->
 
 
@@ -46,10 +48,10 @@ Subscribe to our list to be notified of upcoming talks:
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Detection](https://openreview.net/pdf?id=YLewtnvKgR7)| ||
-|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|||
-|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) |||
-|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)|
+|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Detection](https://openreview.net/pdf?id=YLewtnvKgR7)|  | https://youtu.be/9a8gmW6iMzo |
+|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|| https://youtu.be/0Tz-4_c3A-E |
+|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) || https://youtu.be/YxBK4GEDiCQ |
+|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)| | https://youtu.be/NMdgaBG2PGc |
 |[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
 |[Daniel Seita](https://people.eecs.berkeley.edu/~seita/)| UC Berkeley| March 19, 2021| [Deformable Object Manipulation](https://berkeleyautomation.github.io/bags/)|||
 |[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
