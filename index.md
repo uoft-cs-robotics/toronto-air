@@ -55,6 +55,8 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
 |[Daniel Seita](https://people.eecs.berkeley.edu/~seita/)| UC Berkeley| March 19, 2021| [Deformable Object Manipulation](https://berkeleyautomation.github.io/bags/)|||
 |[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
+|[Michelle Lee](http://stanford.edu/~mishlee/)| Stanford| April 9, 2021|   |||
+|[Georgia Chalvatzaki](https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki)| TU Darmstadt | April 16, 2021|  |||
 
 ### Fall 2020 Schedule
 
