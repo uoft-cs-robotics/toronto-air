@@ -3,21 +3,22 @@ layout: default
 title: Home
 ---
 
-<!-- ## AI in Robotics Reading Group -->
+<!-- ## AI in Robotics Seminar -->
 
-AI in Robotics Reading group is organized by the Faculty and Students at the [Dept. of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) for students across the world to present and interact with the Toronto Robotics Community.
+The Toronto AI in Robotics Seminar is organized by the Faculty and Students at the [Dept. of Computer Science](https://web.cs.toronto.edu/), [University of Toronto](https://www.utoronto.ca/) for students across the world to present and interact with the [Toronto CS Robotics Community](https://robotics.cs.toronto.edu/).
 
 **Format**: Opportunities for students to present their research and connect with peers from other institutions are inceasingly getting rarer. This phenomenon is sped up by low rate of oral/spotlights at top AI meetings and all events going virtual/online. This series aims to create such a platform for students to present their work in a friendly setting and get feedback and hopefully build new collaborations and network.
 
 - As a guiding principle, all speakers in these talks are first authors or co-authors intimately familiar with the work to field questions at every level of detail.   
 - Unlike job talks, we usually prefer that speakers focus on a couple of main papers/ideas rather than present a full arc of their recent work.  
 - Usually talks range from 30-35 mins (rarely going upto 45 mins), with the remaining time for Q&A and discussions.
+- We aim to have time for in-depth discussions with each speaker to discuss potential research directions and want to strive a balance between talks and collaborative discussions. 
 
 
 ### Logistics
 
-We meet from 1030 to 1130 EST on Fridays. [See in other time zones](https://savvytime.com/converter/canada-toronto-to-ca-san-francisco-united-kingdom-london-india-bengaluru-china-beijing-japan-tokyo-australia-sydney/aug-28-2020/10-30am)  
-The meetings will be hosted on youtube with hosts/presenters using zoom.
+We meet from 1030 to 1130 EST on Mondays. [See in other time zones](https://savvytime.com/converter/canada-toronto-to-ca-san-francisco-united-kingdom-london-india-bengaluru-china-beijing-japan-tokyo-australia-sydney/aug-28-2020/10-30am)  
+The meetings will be hosted on youtube with hosts/presenters using zoom (internal UofT presenters will also come to the campus at Mississauga).
 
 Subscribe to our list to be notified of upcoming talks:
 <!-- Begin Mailchimp Signup Form -->
@@ -43,6 +44,24 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 <!--End mc_embed_signup-->
 
+### Fall 2021 Schedule
+
+| Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
+| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
+|[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  |  |
+|[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)|| |
+|[tba]| | | | |  |
+
+### Contact
+If you have any questions, kindly email the current organizers:
+
+- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
+- [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
+- [Claas Voelcker](https:cvoelcker.de): [cvoelcker@cs.toronto.edu](mailto:cvoelcker@cs.toronto.edu)
+
+---
+
+## Previous iterations
 
 ### Winter 2021 Schedule
 
@@ -73,16 +92,9 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 | [Yana Hasson](https://hassony2.github.io/)   | INRIA        | Sept 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | [link](https://www.rocq.inria.fr/cluster-willow/yhasson/presentations/2020_09_11_handobj/)     |     [link](https://www.youtube.com/watch?v=gAqIngwZN0E)      |
 | [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/)      | MIT       | Sept 4, 2020   | [Koopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  [link](public/assets/files/yunzhu_li_koopman.pdf)   |    [link](https://www.youtube.com/watch?v=y_j53bkKzq8)      |
 
-### Contact
-If you have any questions, kindly email the current organizers:
+### Previous organizers
 - [Animesh Garg](https://animesh.garg.tech/): [garg@cs.toronto.edu](mailto:garg@cs.toronto.edu)  
 - [Homanga Bharadhwaj](https://homangab.github.io/): [homanga@cs.toronto.edu](mailto:homanga@cs.toronto.edu)  
 - [Arthur Allshire](https://allshire.org/): [arthur.allshire@mail.utoronto.ca](mailto:arthur.allshire@mail.utoronto.ca)  
 - [Nishkrit Desai](https://ndes.ai): [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
  
-#### Support and Acknowledgement
-
-The Reading Group is currently organized with the support of
-- [People, AI & Robots Group (PAIR)](http://pair.toronto.edu/), Animesh Garg
-- [Robot Vision and Learning Group (RVL)](https://rvl.cs.toronto.edu/), Florian Shkurti
-- [Continuum Robotics Lab (CRL)](https://mcs.utm.utoronto.ca/crl/), Jessica Burgner-Kahrs
