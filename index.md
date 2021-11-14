@@ -48,8 +48,8 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  |  |
-|[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)|| |
+|[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  | [link](https://youtu.be/fjA7MS3-mjY) |
+|[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)| | [link](https://youtu.be/NW23WLVvEyc) |
 |[tba]| | | | |  |
 
 ### Contact
