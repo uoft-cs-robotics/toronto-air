@@ -46,11 +46,15 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 ### Fall 2021 Schedule
 
-| Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
+| Speaker      | Affiliation | Date      | Topic |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  | [link](https://youtu.be/fjA7MS3-mjY) |
-|[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)| | [link](https://youtu.be/NW23WLVvEyc) |
-|[tba]| | | | |  |
+|[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  [link](https://youtu.be/fjA7MS3-mjY) |
+|[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)| [link](https://youtu.be/NW23WLVvEyc) |
+|[Sarah Bechtle](https://bechtle.github.io/) |MPI Tuebingen                | November 15, 2021| Lifelong learning in the real world: [paper 1](https://arxiv.org/pdf/1906.05374.pdf), [paper 2](https://arxiv.org/pdf/1904.06786.pdf), [paper 3](https://arxiv.org/abs/2011.03859)  |  |
+|[Nikita Dvornik](https://www.linkedin.com/in/nikita-dvornik-660164152/?originalSubdomain=fr)| University of Toronto - PAIR | November 22, 2021 | [Representation Learning via Global Temporal Alignment and Cycle-Consistency]() ||
+|[Cynthia Chen](https://www.cynthiaxinchen.com/)|UC Berkeley| November 29, 2021| 	||
+|[Quentin Peyron](https://crl.utm.utoronto.ca/crl/quentin-peyron/)|University of Toronto - CRL| December 6, 2021| 	||
+|[Lars Johannsmeier](https://www.msrm.tum.de/rsi/team/rsi-wissenschaftliche-mitarbeiter/johannsmeier-lars/)|TUM| December 13, 2021| 	||
 
 ### Contact
 If you have any questions, kindly email the current organizers:
