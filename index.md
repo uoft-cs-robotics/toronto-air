@@ -50,9 +50,9 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
 |[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  [link](https://youtu.be/fjA7MS3-mjY) |
 |[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)| [link](https://youtu.be/NW23WLVvEyc) |
-|[Sarah Bechtle](https://bechtle.github.io/) |MPI Tuebingen                | November 15, 2021| Lifelong learning in the real world: [paper 1](https://arxiv.org/pdf/1906.05374.pdf), [paper 2](https://arxiv.org/pdf/1904.06786.pdf), [paper 3](https://arxiv.org/abs/2011.03859)  |  |
-|[Nikita Dvornik](https://www.linkedin.com/in/nikita-dvornik-660164152/?originalSubdomain=fr)| University of Toronto - PAIR | November 22, 2021 | [Representation Learning via Global Temporal Alignment and Cycle-Consistency]() ||
-|[Cynthia Chen](https://www.cynthiaxinchen.com/)|UC Berkeley| November 29, 2021| 	||
+|[Sarah Bechtle](https://bechtle.github.io/) |MPI Tuebingen                | November 15, 2021| Lifelong learning in the real world: [paper 1](https://arxiv.org/pdf/1906.05374.pdf), [paper 2](https://arxiv.org/pdf/1904.06786.pdf), [paper 3](https://arxiv.org/abs/2011.03859)  | [link](https://youtu.be/CuAUd06Yma8) |
+|[Nikita Dvornik](https://www.linkedin.com/in/nikita-dvornik-660164152/?originalSubdomain=fr)| University of Toronto - PAIR | November 22, 2021 | [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://papers.nips.cc/paper/2021/hash/729c68884bd359ade15d5f163166738a-Abstract.html) | [link](https://youtu.be/MCrv5tr67Vk) |
+|[Cynthia Chen](https://www.cynthiaxinchen.com/)|UC Berkeley| November 29, 2021| [An Empirical Investigation of Representation Learning for Imitation](https://openreview.net/forum?id=kBNhgqXatI)	||
 |[Quentin Peyron](https://crl.utm.utoronto.ca/crl/quentin-peyron/)|University of Toronto - CRL| December 6, 2021| 	||
 |[Lars Johannsmeier](https://www.msrm.tum.de/rsi/team/rsi-wissenschaftliche-mitarbeiter/johannsmeier-lars/)|TUM| December 13, 2021| 	||
 
