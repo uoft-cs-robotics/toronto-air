@@ -54,7 +54,7 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Nikita Dvornik](https://www.linkedin.com/in/nikita-dvornik-660164152/?originalSubdomain=fr)| University of Toronto - PAIR | November 22, 2021 | [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://papers.nips.cc/paper/2021/hash/729c68884bd359ade15d5f163166738a-Abstract.html) | [link](https://youtu.be/MCrv5tr67Vk) |
 |[Cynthia Chen](https://www.cynthiaxinchen.com/)|UC Berkeley| November 29, 2021| [An Empirical Investigation of Representation Learning for Imitation](https://openreview.net/forum?id=kBNhgqXatI)	||
 |[Quentin Peyron](https://crl.utm.utoronto.ca/crl/quentin-peyron/)|University of Toronto - CRL| December 6, 2021| Elastic Stability Issues in Continuum Robotics and How to Snap Out of Them: [paper 1](https://www.sciencedirect.com/science/article/pii/S0094114X17318050), [paper 2](https://ieeexplore.ieee.org/abstract/document/8410805)	||
-|[Lars Johannsmeier](https://www.msrm.tum.de/rsi/team/rsi-wissenschaftliche-mitarbeiter/johannsmeier-lars/)|TUM| December 13, 2021| 	||
+|[Homanga Bharadhwaj](https://homangab.github.io/)|CMU| December 13, 2021| Auditing Robot Learning for Safety and Compliance during Deployment	||
 
 ### Contact
 If you have any questions, kindly email the current organizers:
