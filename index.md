@@ -47,7 +47,7 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 ### Winter 2022 Schedule
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
-| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
+| :----:       |    :----:   |        :----: |     :----: |       :----: |
 |[Mojtaba Sharifi](https://sites.google.com/ualberta.ca/mojtabasharifi/)| California State University | January 31, 2022| Autonomous Locomotion Planning for Personalized Control of Lower-limb Exoskeletons|  |
 
 ### Contact
@@ -64,7 +64,7 @@ If you have any questions, kindly email the current organizers:
 ### Fall 2021 Schedule
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
-| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
+| :----:       |    :----:   |        :----: |     :----: |       :----: |
 |[Tabitha Lee](https://www.andrew.cmu.edu/user/tel1/)| Carnegie Mellon University	| October 25, 2021| [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772)|  [link](https://youtu.be/fjA7MS3-mjY) |
 |[Lukas Brunke](https://www.lukasbrunke.com/)|University of Toronto - UTIAS| November 1, 2021| 	[Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/abs/2108.06266)| [link](https://youtu.be/NW23WLVvEyc) |
 |[Sarah Bechtle](https://bechtle.github.io/) |MPI Tuebingen                | November 15, 2021| Lifelong learning in the real world: [paper 1](https://arxiv.org/pdf/1906.05374.pdf), [paper 2](https://arxiv.org/pdf/1904.06786.pdf), [paper 3](https://arxiv.org/abs/2011.03859)  | [link](https://youtu.be/CuAUd06Yma8) |
