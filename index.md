@@ -55,7 +55,7 @@ If you have any questions, kindly email the current organizers:
 
 - [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
 - [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
-- [Qiao Gu](https://georgegu1997.github.io/): [cvoelcker@cs.toronto.edu](mailto:q.gu@mail.utoronto.ca
+- [Qiao Gu](https://georgegu1997.github.io/): [q.gu@mail.utoronto.ca](mailto:q.gu@mail.utoronto.ca)
 
 ---
 
