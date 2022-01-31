@@ -49,8 +49,7 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |
 |[Mojtaba Sharifi](https://sites.google.com/ualberta.ca/mojtabasharifi/)| California State University | January 31, 2022| Autonomous Locomotion Planning for Personalized Control of Lower-limb Exoskeletons|  |
-|[Jacopo Panerati](https://jacopopanerati.github.io/)| UTIAS | February 21, 2022| Safe Learning-based Control for Robotics and Physics-based Simulation [paper 1](
-https://arxiv.org/abs/2109.06325), [paper 2](https://arxiv.org/abs/2108.06266), [paper 3](https://arxiv.org/abs/2103.02142) |  |
+|[Jacopo Panerati](https://jacopopanerati.github.io/)| UTIAS | February 21, 2022| Safe Learning-based Control for Robotics and Physics-based Simulation [paper 1](https://arxiv.org/abs/2109.06325), [paper 2](https://arxiv.org/abs/2108.06266), [paper 3](https://arxiv.org/abs/2103.02142) |  |
 
 
 ### Contact
