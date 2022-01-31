@@ -44,6 +44,23 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 <!--End mc_embed_signup-->
 
+### Winter 2022 Schedule
+
+| Speaker      | Affiliation | Date      | Topic |    Recording     |
+| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
+|[Mojtaba Sharifi](https://sites.google.com/ualberta.ca/mojtabasharifi/)| California State University | January 31, 2022| Autonomous Locomotion Planning for Personalized Control of Lower-limb Exoskeletons|  |
+
+### Contact
+If you have any questions, kindly email the current organizers:
+
+- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
+- [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
+- [Qiao Gu](https://georgegu1997.github.io/): [cvoelcker@cs.toronto.edu](mailto:q.gu@mail.utoronto.ca
+
+---
+
+## Previous iterations
+
 ### Fall 2021 Schedule
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
@@ -56,16 +73,6 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Quentin Peyron](https://crl.utm.utoronto.ca/crl/quentin-peyron/)|University of Toronto - CRL| December 6, 2021| Elastic Stability Issues in Continuum Robotics and How to Snap Out of Them: [paper 1](https://www.sciencedirect.com/science/article/pii/S0094114X17318050), [paper 2](https://ieeexplore.ieee.org/abstract/document/8410805)	| [link](https://youtu.be/uZNBEULFGXA) |
 |[Homanga Bharadhwaj](https://homangab.github.io/)|CMU| December 13, 2021| Auditing Machine Learning and Robot Learning for Safety and Compliance during Deployment: [paper 1](https://openreview.net/pdf?id=57HG8dDs4t4), [paper 2](https://arxiv.org/abs/2109.12456)	| [link](https://youtu.be/wN7esrbk27s) |
 
-### Contact
-If you have any questions, kindly email the current organizers:
-
-- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
-- [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
-- [Claas Voelcker](https:cvoelcker.de): [cvoelcker@cs.toronto.edu](mailto:cvoelcker@cs.toronto.edu)
-
----
-
-## Previous iterations
 
 ### Winter 2021 Schedule
 
@@ -101,4 +108,5 @@ If you have any questions, kindly email the current organizers:
 - [Homanga Bharadhwaj](https://homangab.github.io/): [homanga@cs.toronto.edu](mailto:homanga@cs.toronto.edu)  
 - [Arthur Allshire](https://allshire.org/): [arthur.allshire@mail.utoronto.ca](mailto:arthur.allshire@mail.utoronto.ca)  
 - [Nishkrit Desai](https://ndes.ai): [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
+- [Claas Voelcker](https:cvoelcker.de): [cvoelcker@cs.toronto.edu](mailto:cvoelcker@cs.toronto.edu)
  
