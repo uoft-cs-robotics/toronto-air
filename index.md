@@ -53,7 +53,7 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Jacopo Panerati](https://jacopopanerati.github.io/)| University of Toronto - UTIAS | February 21, 2022| Safe Learning-based Control for Robotics and Physics-based Simulation [paper 1](https://arxiv.org/abs/2109.06325), [paper 2](https://arxiv.org/abs/2108.06266), [paper 3](https://arxiv.org/abs/2103.02142) |  |
 |[Antonio Loquercio](https://antonilo.github.io/) | UC Berkeley - BAIR  | March 7, 2022 | Agile Autonomy: Learning High-Speed Flight | |
 |[Weiyu Liu](http://weiyuliu.com/) | Georgia Institute of Technology | March 14, 2022 | Grounded Semantic Reasoning for Robotic Interaction with Real-World Objects [paper 1](http://www.roboticsproceedings.org/rss17/p035.html), [paper 2](https://arxiv.org/abs/2011.06431), [paper 3](https://arxiv.org/abs/2110.10189)  | |
-|[Maria Popovic](https://mpopovic.io/) | University of Bonn - PhenoRob | March 21, 2022 | | |
+|[Marija Popovic](https://mpopovic.io/) | University of Bonn - PhenoRob | March 21, 2022 | Active Sensing with Intelligent Robots: Mapping and Planning for Robot Autonomy [paper 1](https://link.springer.com/article/10.1007/s10514-020-09903-2), [paper 2](https://arxiv.org/abs/2109.13570), [paper 3](https://arxiv.org/abs/2109.14257) | |
 |[Kashyap Chitta](https://kashyap7x.github.io/) | MPI & University of Tübingen | March 28, 2022 | | |
 |[Erfan Shahriari](https://www.mirmi.tum.de/rsi/team/rsi-mitarbeiter/shahriari-erfan/) |  Technical University of Munich - MIRMI, RSI | April 4, 2022 | | |
 
