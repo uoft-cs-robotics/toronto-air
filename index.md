@@ -45,7 +45,7 @@ Subscribe to our list to be notified of upcoming talks:
 
 <!--End mc_embed_signup-->
 
-<a href="mailto:listserv@listserv.utoronto.ca?subject=Subscribe to Toronto AIR Seminar&body=sub%20AIR-SEMINAR-UTM-L%20firstname%20lastname%0a%0a%0a%0aPlease replace firstname lastname with your first and last names">Subscribe by email</a>
+<a href="mailto:listserv@listserv.utoronto.ca?subject=Subscribe to Toronto AIR Seminar&body=sub%20AIR-SEMINAR-UTM-L">Subscribe by email</a>
 
 
 Past talks are also available on our [YouTube Channel](https://www.youtube.com/channel/UCUt5hX4AYwNJOeTE7Sd2cIw).
