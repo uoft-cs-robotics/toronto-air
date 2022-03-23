@@ -21,6 +21,7 @@ We meet from 1030 to 1130 EST on Mondays. [See in other time zones](https://savv
 The meetings will be hosted on youtube with hosts/presenters using zoom (internal UofT presenters will also come to the campus at Mississauga).
 
 Subscribe to our list to be notified of upcoming talks:
+
 <!-- Begin Mailchimp Signup Form -->
 <!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css"> -->
 <!-- <style type="text/css"> -->
@@ -44,6 +45,7 @@ Subscribe to our list to be notified of upcoming talks:
 
 <!--End mc_embed_signup-->
 
+<a href="mailto:listserv@listserv.utoronto.ca?subject=Subscribe to Toronto AIR Seminar&body=sub%20AIR-SEMINAR-UTM-L%20firstname%20lastname%0a%0a%0a%0aPlease replace firstname lastname with your first and last names">Subscribe by email</a>
 
 
 Past talks are also available on our [YouTube Channel](https://www.youtube.com/channel/UCUt5hX4AYwNJOeTE7Sd2cIw).
