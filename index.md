@@ -1,7 +1,7 @@
----
-layout: default
-title: Home
----
+<!-- --- -->
+<!-- layout: default -->
+<!-- title: Home -->
+<!-- --- -->
 
 <!-- ## AI in Robotics Seminar -->
 
