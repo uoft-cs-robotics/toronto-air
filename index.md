@@ -62,7 +62,7 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Weiyu Liu](http://weiyuliu.com/) | Georgia Institute of Technology | March 14, 2022 | Grounded Semantic Reasoning for Robotic Interaction with Real-World Objects [paper 1](http://www.roboticsproceedings.org/rss17/p035.html), [paper 2](https://arxiv.org/abs/2011.06431), [paper 3](https://arxiv.org/abs/2110.10189)  | |
 |[Marija Popovic](https://mpopovic.io/) | University of Bonn - PhenoRob | March 21, 2022 | Active Sensing with Intelligent Robots: Mapping and Planning for Robot Autonomy [paper 1](https://link.springer.com/article/10.1007/s10514-020-09903-2), [paper 2](https://arxiv.org/abs/2109.13570), [paper 3](https://arxiv.org/abs/2109.14257) | |
 |[Kashyap Chitta](https://kashyap7x.github.io/) | MPI & University of Tübingen | March 28, 2022 | Imitation with Transformer-Based Sensor Fusion for Autonomous Driving | |
-|[Erfan Shahriari](https://www.mirmi.tum.de/rsi/team/rsi-mitarbeiter/shahriari-erfan/) |  Technical University of Munich - MIRMI, RSI | April 4, 2022 | | |
+|[Erfan Shahriari](https://www.mirmi.tum.de/rsi/team/rsi-mitarbeiter/shahriari-erfan/) |  Technical University of Munich - MIRMI, RSI | April 4, 2022 | The Language of Manipulation: Force/Motion Planning and Control for Tactile Robot Manipulation [paper 1](https://doi.org/10.1109/HUMANOIDS.2017.8239548), [paper 2](https://doi.org/10.1109/LRA.2022.3142903), [paper 3](https://doi.org/10.1109/LRA.2019.2953662), [paper 4](https://doi.org/10.23919/ACC.2018.8431718), [paper 5](https://doi.org/10.1109/IROS40897.2019.8968249) | |
 
 
 
