@@ -65,7 +65,11 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Marija Popovic](https://mpopovic.io/) | University of Bonn - PhenoRob | March 21, 2022 | Active Sensing with Intelligent Robots: Mapping and Planning for Robot Autonomy [paper 1](https://link.springer.com/article/10.1007/s10514-020-09903-2), [paper 2](https://arxiv.org/abs/2109.13570), [paper 3](https://arxiv.org/abs/2109.14257) | [link](https://youtu.be/_1KlCTumt3Q) |
 |[Kashyap Chitta](https://kashyap7x.github.io/) | MPI & University of Tübingen | March 28, 2022 | [Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/html/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.html) | [link](https://youtu.be/-GMhYcxOiEU) |
 |[Erfan Shahriari](https://www.mirmi.tum.de/rsi/team/rsi-mitarbeiter/shahriari-erfan/) |  Technical University of Munich - MIRMI, RSI | April 4, 2022 | The Language of Manipulation: Force/Motion Planning and Control for Tactile Robot Manipulation [paper 1](https://doi.org/10.1109/HUMANOIDS.2017.8239548), [paper 2](https://doi.org/10.1109/LRA.2022.3142903), [paper 3](https://doi.org/10.1109/LRA.2019.2953662), [paper 4](https://doi.org/10.23919/ACC.2018.8431718), [paper 5](https://doi.org/10.1109/IROS40897.2019.8968249) | |
-
+| [Brian Okorn](https://www.ri.cmu.edu/ri-people/brian-e-okorn/) | Carnegie Mellon University - R-Pad Lab | April 11, 2022 | Object Representations without Direct Supervision [paper 1](https://bokorn.github.io/zephyr/), [paper 2](https://georgegu1997.github.io/OSSID/) |  |
+| Cameron Forbrigger | University of Toronto - Microrobotics Lab | April 25, 2022| Tethered Magnetic Serial Robots for Minimally Invasive Neurosurgery |  |
+| [Eric Heiden](https://eric-heiden.com/) | University of Southern California - RESL | May 2, 2022 |  |  |
+| Sven Lilge | University of Toronto - CRL | May 9, 2022 |  |  |
+| [Heng Yang](https://hankyang.mit.edu/) | Massachusetts Institute of Technology | May 16, 2022 |  |  |
 
 
 ### Contact
