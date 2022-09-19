@@ -46,10 +46,30 @@ Subscribe to our list to be notified of upcoming talks:
 <!--End mc_embed_signup-->
 
 <a href="mailto:listserv@listserv.utoronto.ca?subject=Subscribe to Toronto AIR Seminar&body=sub%20AIR-SEMINAR-UTM-L">Subscribe by email</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://calendar.google.com/calendar/u/0?cid=aGJwZHBuc2RqY281NDBjaHRhdWE2OWVldnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Subscribe by Google calendar event</a>
 
 
 Past talks are also available on our [YouTube Channel](https://www.youtube.com/channel/UCUt5hX4AYwNJOeTE7Sd2cIw).
 
+### Fall 2022 Schedule
+
+| Speaker      | Affiliation | Date      | Topic |    Recording     |
+| :----:       |    :----:   |        :----: |     :----: |       :----: |
+|[Daniel Bruder](https://danielbruder.com/)| Harvard University | September 19, 2022| Making Soft Robotics Less Hard: Towards a Unified Modeling, Design, and Control Framework [paper1](https://ieeexplore.ieee.org/document/9277915), [paper2](https://arxiv.org/abs/2002.01407) | [link]() |
+| Nolan Wagener | Georgia Institute of Technology | September 26, 2022| []() | [link]() |
+
+
+### Contact
+If you have any questions, kindly email the current organizers:
+
+- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
+- [Qiao Gu](https://georgegu1997.github.io/): [q.gu@mail.utoronto.ca](mailto:q.gu@mail.utoronto.ca)
+- [Ziyi Wu](https://wuziyi616.github.io/): [ziyiwu@cs.toronto.edu](mailto:ziyiwu@cs.toronto.edu)
+
+---
+
+## Previous iterations
 
 ### Winter 2022 Schedule
 
@@ -71,17 +91,6 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 | Sven Lilge | University of Toronto - CRL | May 9, 2022 | Tendon-Driven Parallel Continuum Robots [paper 1](https://doi.org/10.1115/1.4049058), [paper 2](https://doi.org/10.1109/LRA.2021.3057557) | [link](https://youtu.be/D7JGM-0fxQs) |
 | [Heng Yang](https://hankyang.mit.edu/) | Massachusetts Institute of Technology | May 16, 2022 | Certifiable Outlier-Robust Geometric Perception: Robots that See through the Clutter with Confidence [paper 1](https://github.com/MIT-SPARK/CertifiablyRobustPerception), [paper 2](https://github.com/MIT-SPARK/stride) | [link](https://youtu.be/hpqnBPL9lH4) |
 
-
-### Contact
-If you have any questions, kindly email the current organizers:
-
-- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
-- [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
-- [Qiao Gu](https://georgegu1997.github.io/): [q.gu@mail.utoronto.ca](mailto:q.gu@mail.utoronto.ca)
-
----
-
-## Previous iterations
 
 ### Fall 2021 Schedule
 
@@ -131,4 +140,5 @@ If you have any questions, kindly email the current organizers:
 - [Arthur Allshire](https://allshire.org/): [arthur.allshire@mail.utoronto.ca](mailto:arthur.allshire@mail.utoronto.ca)  
 - [Nishkrit Desai](https://ndes.ai): [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
 - [Claas Voelcker](https:cvoelcker.de): [cvoelcker@cs.toronto.edu](mailto:cvoelcker@cs.toronto.edu)
- 
+- [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
+
