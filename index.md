@@ -57,7 +57,8 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |
 |[Daniel Bruder](https://danielbruder.com/)| Harvard University | September 19, 2022| Making Soft Robotics Less Hard: Towards a Unified Modeling, Design, and Control Framework [paper1](https://ieeexplore.ieee.org/document/9277915), [paper2](https://arxiv.org/abs/2002.01407) | [link]() |
-| Nolan Wagener | Georgia Institute of Technology | September 26, 2022| []() | [link]() |
+|[Nolan Wagener](https://scholar.google.com/citations?user=SgGIYH0AAAAJ&hl=en)| Georgia Institute of Technology | September 26, 2022| [MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control](https://arxiv.org/abs/2208.07363) | [link]() |
+|[Kourosh Darvish](https://kouroshd.github.io/)| University of Toronto | October 3, 2022| Shared Autonomy: From Human-Robot Collaboration to Humanoid Robot Teleoperation [paper1](https://ieeexplore.ieee.org/abstract/document/9257394), [paper2](https://ieeexplore.ieee.org/document/9035059), [paper3](https://arxiv.org/abs/2203.06972) | [link]() |
 
 
 ### Contact
