@@ -59,8 +59,10 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Daniel Bruder](https://danielbruder.com/)| Harvard University | September 19, 2022| Making Soft Robotics Less Hard: Towards a Unified Modeling, Design, and Control Framework [paper1](https://ieeexplore.ieee.org/document/9277915), [paper2](https://arxiv.org/abs/2002.01407) | [link](https://youtu.be/N-xpv3Iyf6k) |
 |[Nolan Wagener](https://scholar.google.com/citations?user=SgGIYH0AAAAJ&hl=en)| Georgia Institute of Technology | September 26, 2022| [MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control](https://arxiv.org/abs/2208.07363) | [link](https://youtu.be/gzdz51zQV2s) |
 |[Chris Denniston](https://www.cdenniston.com/)| University of Southern California | October 17, 2022| Active Robot Perception for Understanding the World [paper1](https://arxiv.org/abs/2201.10633), [paper2](https://arxiv.org/abs/2109.11595) | [link]() |
-|[S.M.Hadi Sadati](https://smh-sadati.com/)| King’s College London | October 24, 2022|  | [link]() |
+|[S.M.Hadi Sadati](https://smh-sadati.com/)| King’s College London | October 24, 2022| Reinventing Catheters by Soft Robotics: Robotics Thrombectomy for Acute Stroke | [link]() |
 |[Mohit Shridhar](https://mohitshridhar.com/)| University of Washington | October 31, 2022|  | [link]() |
+|[Jun Yang](https://www.trailab.utias.utoronto.ca/jun-yang)| University of Toronto - UTIAS | November 7, 2022|  | [link]() |
+|[Jun Gao](http://www.cs.toronto.edu/~jungao/)| University of Toronto | November 14, 2022|  | [link]() |
 
 
 ### Contact
