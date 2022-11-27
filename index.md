@@ -60,11 +60,12 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Nolan Wagener](https://scholar.google.com/citations?user=SgGIYH0AAAAJ&hl=en)| Georgia Institute of Technology | September 26, 2022| [MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control](https://arxiv.org/abs/2208.07363) | [link](https://youtu.be/gzdz51zQV2s) |
 |[Chris Denniston](https://www.cdenniston.com/)| University of Southern California | October 17, 2022| Active Robot Perception for Understanding the World [paper1](https://arxiv.org/abs/2201.10633), [paper2](https://arxiv.org/abs/2109.11595) | [link](https://youtu.be/ffyGHsoZKwo) |
 |[S.M.Hadi Sadati](https://smh-sadati.com/)| King’s College London | October 24, 2022| Reinventing Catheters by Soft Robotics: Robotics Thrombectomy for Acute Stroke | [link](https://youtu.be/O-awjNg49Fs) |
-|[Mohit Shridhar](https://mohitshridhar.com/)| University of Washington | October 31, 2022| 6D Pose Estimation for Textureless Objects on RGB Frames using Multi-View Optimization | [link](https://youtu.be/QcuXwmQgurE) |
-|[Jun Yang](https://www.trailab.utias.utoronto.ca/jun-yang)| University of Toronto - UTIAS | November 7, 2022|  | [link]() |
-|[Jun Gao](http://www.cs.toronto.edu/~jungao/)| University of Toronto | November 14, 2022|  | [link]() |
-|[Silviu Pitis](https://silviupitis.com/)| University of Toronto | November 21, 2022|  | [link]() |
-|[Wenyuan Zeng](http://www.cs.toronto.edu/~wenyuan/)| University of Toronto | November 28, 2022|  | [link]() |
+|[Mohit Shridhar](https://mohitshridhar.com/)| University of Washington | October 31, 2022| [Acting with Perception and Language](https://peract.github.io/) | [link](https://youtu.be/QcuXwmQgurE) |
+|[Jun Yang](https://www.trailab.utias.utoronto.ca/jun-yang)| University of Toronto - UTIAS | November 7, 2022| 6D Pose Estimation for Textureless Objects on RGB Frames using Multi-View Optimization [paper1](https://arxiv.org/abs/2210.11554), [paper2](https://arxiv.org/abs/2105.04112) | [link](https://youtu.be/TDbiR1tPRLU) |
+|[Jun Gao](http://www.cs.toronto.edu/~jungao/)| University of Toronto | November 14, 2022| Towards Generative Modeling of 3D Objects Learned from Images [paper1](https://nv-tlabs.github.io/DMTet/), [paper2](https://nvlabs.github.io/nvdiffrec/), [paper3](https://nv-tlabs.github.io/GET3D/) | [link](https://youtu.be/whXTP08XMYA) |
+|[Silviu Pitis](https://silviupitis.com/)| University of Toronto | November 21, 2022| Generalizing Out-of-Distribution using Counterfactual Data Augmentation [paper1](https://arxiv.org/abs/2007.02863), [paper2](https://arxiv.org/abs/2210.11287), [paper3](https://tinyurl.com/superb-rl) | [link](https://youtu.be/BrAlnvtOkqc) |
+|[Wenyuan Zeng](http://www.cs.toronto.edu/~wenyuan/)| University of Toronto | November 28, 2022| Neural World Models for Autonomous Driving [paper1](https://arxiv.org/abs/2101.06679), [paper2](https://arxiv.org/abs/2008.06041), [paper3](https://arxiv.org/abs/2006.09348) | [link]() |
+|[Mathias Gehrig](https://magehrig.github.io/)| University of Zurich | December 5, 2022|  | [link]() |
 |[Kourosh Darvish](https://kouroshd.github.io/)| University of Toronto | December 12, 2022|  | [link]() |
 
 
