@@ -64,9 +64,9 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Jun Yang](https://www.trailab.utias.utoronto.ca/jun-yang)| University of Toronto - UTIAS | November 7, 2022| 6D Pose Estimation for Textureless Objects on RGB Frames using Multi-View Optimization [paper1](https://arxiv.org/abs/2210.11554), [paper2](https://arxiv.org/abs/2105.04112) | [link](https://youtu.be/TDbiR1tPRLU) |
 |[Jun Gao](http://www.cs.toronto.edu/~jungao/)| University of Toronto | November 14, 2022| Towards Generative Modeling of 3D Objects Learned from Images [paper1](https://nv-tlabs.github.io/DMTet/), [paper2](https://nvlabs.github.io/nvdiffrec/), [paper3](https://nv-tlabs.github.io/GET3D/) | [link](https://youtu.be/whXTP08XMYA) |
 |[Silviu Pitis](https://silviupitis.com/)| University of Toronto | November 21, 2022| Generalizing Out-of-Distribution using Counterfactual Data Augmentation [paper1](https://arxiv.org/abs/2007.02863), [paper2](https://arxiv.org/abs/2210.11287), [paper3](https://tinyurl.com/superb-rl) | [link](https://youtu.be/BrAlnvtOkqc) |
-|[Wenyuan Zeng](http://www.cs.toronto.edu/~wenyuan/)| University of Toronto | November 28, 2022| Neural World Models for Autonomous Driving [paper1](https://arxiv.org/abs/2101.06679), [paper2](https://arxiv.org/abs/2008.06041), [paper3](https://arxiv.org/abs/2006.09348) | [link]() |
-|[Mathias Gehrig](https://magehrig.github.io/)| University of Zurich | December 5, 2022|  | [link]() |
-|[Kourosh Darvish](https://kouroshd.github.io/)| University of Toronto | December 12, 2022|  | [link]() |
+|[Wenyuan Zeng](http://www.cs.toronto.edu/~wenyuan/)| University of Toronto | November 28, 2022| Neural World Models for Autonomous Driving [paper1](https://arxiv.org/abs/2101.06679), [paper2](https://arxiv.org/abs/2008.06041), [paper3](https://arxiv.org/abs/2006.09348) | [link](https://youtu.be/wMvYjiv6EpY) |
+|[Mathias Gehrig](https://magehrig.github.io/)| University of Zurich | December 5, 2022| Event Cameras and How to Make Them Useful [paper1](https://arxiv.org/abs/2108.10552), [paper2](https://arxiv.org/abs/2103.06011), [paper3](https://arxiv.org/abs/2203.13674) | [link](https://youtu.be/cFQRFRULCsA) |
+|[Kourosh Darvish](https://kouroshd.github.io/)| University of Toronto | December 12, 2022| Shared Autonomy: From Human-Robot Collaboration to Humanoid Robot Teleoperation [paper1](https://ieeexplore.ieee.org/abstract/document/9257394), [paper2](https://ieeexplore.ieee.org/document/9035059), [paper3](https://arxiv.org/abs/2203.06972) | [link](https://youtu.be/y7pI4avWHmY) |
 
 
 ### Contact
