@@ -52,6 +52,23 @@ Subscribe to our list to be notified of upcoming talks:
 
 Past talks are also available on our [YouTube Channel](https://www.youtube.com/channel/UCUt5hX4AYwNJOeTE7Sd2cIw).
 
+### Winter 2023 Schedule
+
+| Speaker      | Affiliation | Date      | Topic |    Recording     |
+| :----:       |    :----:   |        :----: |     :----: |       :----: |
+
+
+### Contact
+If you have any questions, kindly email the current organizers:
+
+- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
+- [Ziyi Wu](https://wuziyi616.github.io/): [ziyiwu@cs.toronto.edu](mailto:ziyiwu@cs.toronto.edu)
+- [Wei-Cheng Tseng](https://weichengtseng.github.io/): [ethanweichengtseng@gmail.com](mailto:ethanweichengtseng@gmail.com)
+
+---
+
+## Previous iterations
+
 ### Fall 2022 Schedule
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
@@ -68,17 +85,6 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Mathias Gehrig](https://magehrig.github.io/)| University of Zurich | December 5, 2022| Event Cameras and How to Make Them Useful [paper1](https://arxiv.org/abs/2108.10552), [paper2](https://arxiv.org/abs/2103.06011), [paper3](https://arxiv.org/abs/2203.13674) | [link](https://youtu.be/cFQRFRULCsA) |
 |[Kourosh Darvish](https://kouroshd.github.io/)| University of Toronto | December 12, 2022| Shared Autonomy: From Human-Robot Collaboration to Humanoid Robot Teleoperation [paper1](https://ieeexplore.ieee.org/abstract/document/9257394), [paper2](https://ieeexplore.ieee.org/document/9035059), [paper3](https://arxiv.org/abs/2203.06972) | [link](https://youtu.be/y7pI4avWHmY) |
 
-
-### Contact
-If you have any questions, kindly email the current organizers:
-
-- [Igor Gilitschenski](https://www.gilitschenski.org/igor/): [igor@gilitschenski.org](mailto:igor@gilitschenski.org)
-- [Qiao Gu](https://georgegu1997.github.io/): [q.gu@mail.utoronto.ca](mailto:q.gu@mail.utoronto.ca)
-- [Ziyi Wu](https://wuziyi616.github.io/): [ziyiwu@cs.toronto.edu](mailto:ziyiwu@cs.toronto.edu)
-
----
-
-## Previous iterations
 
 ### Winter 2022 Schedule
 
@@ -116,32 +122,32 @@ If you have any questions, kindly email the current organizers:
 
 ### Winter 2021 Schedule
 
-| Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
-| :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|
-|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Detection](https://openreview.net/pdf?id=YLewtnvKgR7)|  | [link](https://youtu.be/9a8gmW6iMzo) |
-|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617)|| [link](https://youtu.be/0Tz-4_c3A-E) |
-|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) || [link](https://youtu.be/YxBK4GEDiCQ) |
-|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)| | [link](https://youtu.be/NMdgaBG2PGc) |
-|[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)|||
-|[Daniel Seita](https://people.eecs.berkeley.edu/~seita/)| UC Berkeley| March 19, 2021| [Deformable Object Manipulation](https://berkeleyautomation.github.io/bags/)|||
-|[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)|||
-|[Michelle Lee](http://stanford.edu/~mishlee/)| Stanford| April 9, 2021|   |||
-|[Georgia Chalvatzaki](https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki)| TU Darmstadt | April 16, 2021|  |||
+| Speaker      | Affiliation | Date      | Topic | Recording |
+| :----:       |    :----:   |        :----: |     :----: |  :----:|
+| [Kevin Xie](https://www.linkedin.com/in/kevin-xie-77286796/) / [Homanga Bharadhwaj](https://homangab.github.io)      | University of Toronto       | January 22, 2021   | [Skill Transfer via Partially Amortized Hierarchical Planning](https://arxiv.org/pdf/2011.13897.pdf)  |   |    |
+|[Ali Harakeh](https://www.aharakeh.com)| University of Toronto	| February 12, 2021| [Bayesian Detection](https://openreview.net/pdf?id=YLewtnvKgR7) | [link](https://youtu.be/9a8gmW6iMzo) |
+|[Hazel Doughty](https://hazeldoughty.github.io)|University of Amsterdam| February 19, 2021| 	[Action Modifiers: Learning from Adverbs in Instructional Videos](https://arxiv.org/abs/1912.06617) | [link](https://youtu.be/0Tz-4_c3A-E) |
+|[Joonho Lee](https://twitter.com/junja941?lang=en)| ETH Zürich| February 26, 2021|[Anymal Learning](https://arxiv.org/pdf/2011.08811.pdf) | [link](https://youtu.be/YxBK4GEDiCQ) |
+|[Samarth Brahmbhatt](https://samarth-robo.github.io)| Georgia Tech, Intel| March 5, 2021| [Grasp contact between hand and object & associated datasets](https://smartech.gatech.edu/handle/1853/63585)| [link](https://youtu.be/NMdgaBG2PGc) |
+|[Maria Bauza](http://web.mit.edu/bauza/www/)| MIT| March 12, 2021| [Tactile Localization](https://arxiv.org/abs/1904.10944)| [link](https://youtu.be/VT1OsF0wk2k) |
+|[Daniel Seita](https://people.eecs.berkeley.edu/~seita/)| UC Berkeley| March 19, 2021| [Deformable Object Manipulation](https://berkeleyautomation.github.io/bags/)| [link](https://youtu.be/cGJ9zIGeYLs) |
+|[Krishna Murthy](https://krrish94.github.io)| Mila| March 26, 2021| [GradSLAM](https://gradslam.github.io/)| [link](https://youtu.be/jozMGTpIQ_k) |
+|[Michelle Lee](http://stanford.edu/~mishlee/)| Stanford| April 9, 2021|   |  |
+|[Georgia Chalvatzaki](https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki)| TU Darmstadt | April 16, 2021| [Accelerating Robot Skill Learning with Demonstrations and Models](https://arxiv.org/abs/2010.13766) | [link](https://youtu.be/X-qSX3xGWhE) |
 
 ### Fall 2020 Schedule
 
 
 | Speaker      | Affiliation | Date      | Topic | Slides       |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |  :----:|    
-| [Kevin Xie](https://www.linkedin.com/in/kevin-xie-77286796/) / [Homanga Bharadhwaj](https://homangab.github.io)      | University of Toronto       | Jan 22, 2020   | [Skill Transfer via Partially Amortized Hierarchical Planning](https://arxiv.org/pdf/2011.13897.pdf)  |   |    |
-| [Carolyn Matl](https://carolyncmatl.github.io)      | UC Berkeley       | Dec 11, 2020   | [Sim-To-Real from Sound](https://arxiv.org/abs/2011.03136) / [ Material Properties for Robotic Tasks](https://arxiv.org/pdf/2003.08032.pdf)    |   |    [link](https://youtu.be/PbJMVhLLrz0)  |
-| [Zongyi Li](https://zongyi-li.github.io/)      | Caltech       | Nov 20, 2020   | [Fourier Neural Operator for Parametric PDEs](https://arxiv.org/abs/2010.08895)    |  [link](public/assets/files/zongyi.pdf)   |   [link](https://www.youtube.com/watch?v=0Ve9xwNJO2o&feature=youtu.be)    |
-| [Anirudh Goyal](https://anirudh9119.github.io/)  | Mila        | Oct 23, 2020     |  [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)  | [link](public/assets/files/anirudh.pdf)     |     [link](https://www.youtube.com/watch?v=qNXMrQXwnWk&feature=youtu.be)      |
-| [Rika Antonova](https://www.kth.se/profile/antonova/)  | KTH        | Oct 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | [link](public/assets/files/rika.pdf)     |     [link](https://youtu.be/W41p76Q03nI)      |
-| [Ron Dorfman](https://il.linkedin.com/in/ron-dorfman-756b9a13a) | Technion | Sept 25, 2020 | [Offline Meta RL](https://arxiv.org/abs/2008.02598) | [link](public/assets/files/ron.pdf) | [link](https://www.youtube.com/watch?v=2euljG6qUmM&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) |
-| [Ahmed Qureshi](https://qureshiahmed.github.io/) | UCSD | Sept 18, 2020 | [Motion Planning Networks](https://arxiv.org/abs/1806.05767) | [link](public/assets/files/MPNet_AhmedQureshi.pdf) | [link](https://www.youtube.com/watch?v=x5hf-gjdQaA&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) |
-| [Yana Hasson](https://hassony2.github.io/)   | INRIA        | Sept 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | [link](https://www.rocq.inria.fr/cluster-willow/yhasson/presentations/2020_09_11_handobj/)     |     [link](https://www.youtube.com/watch?v=gAqIngwZN0E)      |
-| [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/)      | MIT       | Sept 4, 2020   | [Koopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  [link](public/assets/files/yunzhu_li_koopman.pdf)   |    [link](https://www.youtube.com/watch?v=y_j53bkKzq8)      |
+| [Yunzhu Li](https://people.csail.mit.edu/liyunzhu/)      | MIT       | September 4, 2020   | [Koopman operators for model-based RL](https://openreview.net/forum?id=H1ldzA4tPr)    |  [link](public/assets/files/yunzhu_li_koopman.pdf)   |    [link](https://www.youtube.com/watch?v=y_j53bkKzq8)      |
+| [Yana Hasson](https://hassony2.github.io/)   | INRIA        | September 11, 2020     |  [Hand-Object Reconstruction](https://hassony2.github.io/handobjectconsist.html)  | [link](https://www.rocq.inria.fr/cluster-willow/yhasson/presentations/2020_09_11_handobj/)     |     [link](https://www.youtube.com/watch?v=gAqIngwZN0E)      |
+| [Ahmed Qureshi](https://qureshiahmed.github.io/) | UCSD | September 18, 2020 | [Motion Planning Networks](https://arxiv.org/abs/1806.05767) | [link](public/assets/files/MPNet_AhmedQureshi.pdf) | [link](https://www.youtube.com/watch?v=x5hf-gjdQaA&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) |
+| [Ron Dorfman](https://il.linkedin.com/in/ron-dorfman-756b9a13a) | Technion | September 25, 2020 | [Offline Meta RL](https://arxiv.org/abs/2008.02598) | [link](public/assets/files/ron.pdf) | [link](https://www.youtube.com/watch?v=2euljG6qUmM&list=PLmZO8uKINti8d8BdsEr8rs0dzPjg0ihzw&index=4) |
+| [Rika Antonova](https://www.kth.se/profile/antonova/)  | KTH        | October 9, 2020     |  [Analytic Manifold Learning](https://arxiv.org/abs/2006.08718)  | [link](public/assets/files/rika.pdf)     |     [link](https://youtu.be/W41p76Q03nI)      |
+| [Anirudh Goyal](https://anirudh9119.github.io/)  | Mila        | October 23, 2020     |  [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893)  | [link](public/assets/files/anirudh.pdf)     |     [link](https://www.youtube.com/watch?v=qNXMrQXwnWk&feature=youtu.be)      |
+| [Zongyi Li](https://zongyi-li.github.io/)      | Caltech       | November 20, 2020   | [Fourier Neural Operator for Parametric PDEs](https://arxiv.org/abs/2010.08895)    |  [link](public/assets/files/zongyi.pdf)   |   [link](https://www.youtube.com/watch?v=0Ve9xwNJO2o&feature=youtu.be)    |
+| [Carolyn Matl](https://carolyncmatl.github.io)      | UC Berkeley       | December 11, 2020   | [Sim-To-Real from Sound](https://arxiv.org/abs/2011.03136) / [ Material Properties for Robotic Tasks](https://arxiv.org/pdf/2003.08032.pdf)    |   |    [link](https://youtu.be/PbJMVhLLrz0)  |
 
 ### Previous organizers
 - [Animesh Garg](https://animesh.garg.tech/): [garg@cs.toronto.edu](mailto:garg@cs.toronto.edu)  
@@ -150,4 +156,5 @@ If you have any questions, kindly email the current organizers:
 - [Nishkrit Desai](https://ndes.ai): [nishkrit.desai@mail.utoronto.ca](mailto:nishkrit.desai@mail.utoronto.ca)
 - [Claas Voelcker](https:cvoelcker.de): [cvoelcker@cs.toronto.edu](mailto:cvoelcker@cs.toronto.edu)
 - [Reinhard M. Grassmann](https://crl.utm.utoronto.ca/crl/reinhard/): [grassmann@cs.toronto.edu](mailto:grassmann@cs.toronto.edu)
+- [Qiao Gu](https://georgegu1997.github.io/): [q.gu@mail.utoronto.ca](mailto:q.gu@mail.utoronto.ca)
 
