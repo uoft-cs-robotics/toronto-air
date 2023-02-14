@@ -56,6 +56,12 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |
+|[Ayal Taitler](https://sites.google.com/view/ataitler/home)| University of Toronto | February 13, 2023| Stochastic Planning and Reinforcement Learning [paper1](https://arxiv.org/abs/2211.05939), [paper2](https://drive.google.com/file/d/1PmcsnalXV1fUiikco51iGhukdkKbzRb5/view) | [link]() |
+|[Zhenjia Xu](https://www.zhenjiaxu.com/)| Columbia University | February 27, 2023|  [paper1]() | [link]() |
+|[Sven Lilge](https://www.cs.toronto.edu/~slilge/)| University of Toronto | March 6, 2023|  [paper1]() | [link]() |
+|[Frederike Dümbgen](https://duembgen.github.io/)| University of Toronto | March 13, 2023|  [paper1]() | [link]() |
+|[Zhang-Wei Hong](https://williamd4112.github.io/)| MIT | March 20, 2023|  [paper1]() | [link]() |
+|[Zhenyu Jiang](https://zhenyujiang.me/)| UT Austin | March 27, 2023|  [paper1]() | [link]() |
 
 
 ### Contact
@@ -101,9 +107,9 @@ If you have any questions, kindly email the current organizers:
 |[Kashyap Chitta](https://kashyap7x.github.io/) | MPI & University of Tübingen | March 28, 2022 | [Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/html/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.html) | [link](https://youtu.be/-GMhYcxOiEU) |
 |[Erfan Shahriari](https://www.mirmi.tum.de/rsi/team/rsi-mitarbeiter/shahriari-erfan/) |  Technical University of Munich - MIRMI, RSI | April 4, 2022 | The Language of Manipulation: Force/Motion Planning and Control for Tactile Robot Manipulation [paper 1](https://doi.org/10.1109/HUMANOIDS.2017.8239548), [paper 2](https://doi.org/10.1109/LRA.2022.3142903), [paper 3](https://doi.org/10.1109/LRA.2019.2953662), [paper 4](https://doi.org/10.23919/ACC.2018.8431718), [paper 5](https://doi.org/10.1109/IROS40897.2019.8968249) | |
 | [Brian Okorn](https://www.ri.cmu.edu/ri-people/brian-e-okorn/) | Carnegie Mellon University - R-Pad Lab | April 11, 2022 | Object Representations without Direct Supervision [paper 1](https://bokorn.github.io/zephyr/), [paper 2](https://georgegu1997.github.io/OSSID/) | [link](https://youtu.be/k6ZaSvb9PTw) |
-| Cameron Forbrigger | University of Toronto - Microrobotics Lab | April 25, 2022| Tethered Magnetic Serial Robots for Minimally Invasive Neurosurgery [paper 1](https://doi.org/10.1109/TBME.2020.3007581), [paper 2](https://doi.org/10.1109/ICRA48506.2021.9561357) | [link](https://youtu.be/y1aeLfuinok) |
+| [Cameron Forbrigger](https://scholar.google.com/citations?user=JYdW_kkAAAAJ&hl=en) | University of Toronto - Microrobotics Lab | April 25, 2022| Tethered Magnetic Serial Robots for Minimally Invasive Neurosurgery [paper 1](https://doi.org/10.1109/TBME.2020.3007581), [paper 2](https://doi.org/10.1109/ICRA48506.2021.9561357) | [link](https://youtu.be/y1aeLfuinok) |
 | [Eric Heiden](https://eric-heiden.com/) | University of Southern California - RESL | May 2, 2022 | Reducing the Reality Gap in Robotics via Simulation-based Inference [paper 1](https://uscresl.github.io/prob-diff-sim/), [paper 2](https://eric-heiden.github.io/video2sim/) | [link](https://youtu.be/kuqnkXIWxQE) |
-| Sven Lilge | University of Toronto - CRL | May 9, 2022 | Tendon-Driven Parallel Continuum Robots [paper 1](https://doi.org/10.1115/1.4049058), [paper 2](https://doi.org/10.1109/LRA.2021.3057557) | [link](https://youtu.be/D7JGM-0fxQs) |
+| [Sven Lilge](https://www.cs.toronto.edu/~slilge/) | University of Toronto - CRL | May 9, 2022 | Tendon-Driven Parallel Continuum Robots [paper 1](https://doi.org/10.1115/1.4049058), [paper 2](https://doi.org/10.1109/LRA.2021.3057557) | [link](https://youtu.be/D7JGM-0fxQs) |
 | [Heng Yang](https://hankyang.mit.edu/) | Massachusetts Institute of Technology | May 16, 2022 | Certifiable Outlier-Robust Geometric Perception: Robots that See through the Clutter with Confidence [paper 1](https://github.com/MIT-SPARK/CertifiablyRobustPerception), [paper 2](https://github.com/MIT-SPARK/stride) | [link](https://youtu.be/hpqnBPL9lH4) |
 
 
