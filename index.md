@@ -56,12 +56,15 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 
 | Speaker      | Affiliation | Date      | Topic |    Recording     |
 | :----:       |    :----:   |        :----: |     :----: |       :----: |
-|[Ayal Taitler](https://sites.google.com/view/ataitler/home)| University of Toronto | February 13, 2023| Stochastic Planning and Reinforcement Learning [paper1](https://arxiv.org/abs/2211.05939), [paper2](https://drive.google.com/file/d/1PmcsnalXV1fUiikco51iGhukdkKbzRb5/view) | [link]() |
-|[Zhenjia Xu](https://www.zhenjiaxu.com/)| Columbia University | February 27, 2023|  [paper1]() | [link]() |
-|[Sven Lilge](https://www.cs.toronto.edu/~slilge/)| University of Toronto | March 6, 2023|  [paper1]() | [link]() |
-|[Frederike Dümbgen](https://duembgen.github.io/)| University of Toronto | March 13, 2023|  [paper1]() | [link]() |
-|[Zhang-Wei Hong](https://williamd4112.github.io/)| MIT | March 20, 2023|  [paper1]() | [link]() |
+|[Ayal Taitler](https://sites.google.com/view/ataitler/home)| University of Toronto | February 13, 2023| Stochastic Planning and Reinforcement Learning [paper1](https://arxiv.org/abs/2211.05939), [paper2](https://drive.google.com/file/d/1PmcsnalXV1fUiikco51iGhukdkKbzRb5/view) | [link](https://youtu.be/XahzBpMso2w) |
+|[Zhenjia Xu](https://www.zhenjiaxu.com/)| Columbia University | February 27, 2023| Deformable Object Manipulation Beyond Pick-and-Place [paper1](https://arxiv.org/abs/2203.01197), [paper2](https://arxiv.org/abs/2302.11553) | [link](https://youtu.be/v6rWg_PnoiM) |
+|[Sven Lilge](https://www.cs.toronto.edu/~slilge/)| University of Toronto | March 6, 2023| [Continuum Robot State Estimation via Gaussian Process Regression on SE(3)](https://arxiv.org/abs/2210.14842) | [link](https://youtu.be/J1Xk4SZbvkU) |
+|[Frederike Dümbgen](https://duembgen.github.io/)| University of Toronto | March 13, 2023| Towards Globally Optimal State Estimation [paper1](https://arxiv.org/abs/2206.05082), [paper2](https://ieeexplore.ieee.org/document/10003973), [paper3](https://ieeexplore.ieee.org/document/10023976) | [link]() |
+|[Zhang-Wei Hong](https://williamd4112.github.io/)| MIT | March 20, 2023| Explore and Exploit Data in Reinforcement Learning [paper1](https://arxiv.org/abs/2211.07627) | [link]() |
 |[Zhenyu Jiang](https://zhenyujiang.me/)| UT Austin | March 27, 2023|  [paper1]() | [link]() |
+|[Joanne Truong](https://www.joannetruong.com/)| Georgia Institute of Technology | April 3rd, 2023|  [paper1]() | [link]() |
+|[TBD]()|  | April 10th, 2023|  [paper1]() | [link]() |
+|[Ahalya Prabhakar](https://apr600.github.io/)| EPFL | April 16th, 2023|  [paper1]() | [link]() |
 
 
 ### Contact
