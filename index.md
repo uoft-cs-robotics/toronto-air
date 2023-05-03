@@ -63,10 +63,10 @@ Past talks are also available on our [YouTube Channel](https://www.youtube.com/c
 |[Zhang-Wei Hong](https://williamd4112.github.io/)| MIT | March 20, 2023| Explore and Exploit Data in Reinforcement Learning [paper1](https://arxiv.org/abs/2211.07627), [paper2](https://arxiv.org/abs/2204.13695) | [link](https://youtu.be/RvTQLT8QLqQ) |
 |[Zhenyu Jiang](https://zhenyujiang.me/)| UT Austin | March 27, 2023| Building Digital Twins of Articulated Objects and Scenes [paper1](https://arxiv.org/abs/2202.08227), [paper2](https://arxiv.org/abs/2302.01295) | |
 |[Joanne Truong](https://www.joannetruong.com/)| Georgia Institute of Technology | April 3rd, 2023| Sim2Robot: Training Robots for the Real-World with Imperfect Simulators [paper1](https://arxiv.org/abs/1912.06321), [paper2](https://arxiv.org/abs/2011.12421), [paper3](https://arxiv.org/abs/2207.10821), [paper4](https://indoorsim2outdoorreal.github.io/final.html) | [link](https://youtu.be/Deguhw3zqT4) |
-|[Ahalya Prabhakar](https://apr600.github.io/)| EPFL | April 17, 2023|  [paper1]() | [link]() |
-|[Ivan Skorokhodov](https://universome.github.io/)| KAUST | April 24, 2023|  [paper1]() | [link]() |
-|[Gautam Singh](https://singhgautam.github.io/)| Rutgers University | May 1, 2023|  [paper1]() | [link]() |
-|[Bingjie Tang](https://bingjietang718.github.io/)| University of Southern California | May 8, 2023|  [paper1]() | [link]() |
+|[Ahalya Prabhakar](https://apr600.github.io/)| EPFL | April 17, 2023|  [paper1](https://arxiv.org/abs/2006.06081), [paper2](https://arxiv.org/abs/2212.03106), [paper3](https://www.nature.com/articles/s41467-022-31795-2) | [link](https://youtu.be/AUqfNzexiSk) |
+|[Ivan Skorokhodov](https://universome.github.io/)| KAUST | April 24, 2023|  [paper1](https://arxiv.org/abs/2104.06954), [paper2](https://arxiv.org/abs/2112.14683), [paper3](https://arxiv.org/abs/2303.01416) | [link](https://youtu.be/wuzWDFPjqiY) |
+|[Gautam Singh](https://singhgautam.github.io/)| Rutgers University | May 1, 2023|  [paper1](https://arxiv.org/abs/2110.11405), [paper2](https://arxiv.org/abs/2205.14065), [paper3](https://arxiv.org/abs/2211.01177) | [link](https://youtu.be/fa96vWAN108) |
+|[Bingjie Tang](https://bingjietang718.github.io/)| University of Southern California | May 8, 2023|  [paper](https://bingjietang718.github.io/pdfs/rss2023.pdf) | [link]() |
 
 
 ### Contact
